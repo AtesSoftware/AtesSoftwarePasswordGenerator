@@ -53,3 +53,5 @@ The application is designed to help users create passwords that are difficult to
 - 💻 C# programming language
 - 🖥️ Windows Forms for UI
 - 🔧 .NET Framework
+
+<img width="496" height="223" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/56173e46-5c17-48cb-8cf3-a7a44b49c50c" />
