@@ -1,0 +1,13 @@
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csproj.AssemblyReference.cache
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.Properties.Resources.resources
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csproj.GenerateResource.cache
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.csproj.CoreCompileInputs.cache
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.Form1.resources
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe.config
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\bin\Debug\PassGenerator.exe
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\bin\Debug\PassGenerator.pdb
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\bin\Debug\Guna.UI2.dll
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGene.C63F3F1E.Up2Date
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.exe
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.pdb
+C:\Users\mehme\source\repos\PassGenerator\PassGenerator\obj\Debug\PassGenerator.exe.config
