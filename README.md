@@ -23,10 +23,6 @@ Uygulama, kullanıcıların tahmin edilmesi veya kırılması zor şifreler olu�
 - 🖥️ UI için Windows Forms
 - 🔧 .NET Framework
 
-### 📜 Lisans:
-Bu proje MIT Lisansı altında lisanslanmıştır.
-
-
 # **ENGLISH**
 
 # 🔒 Strong Password Generator 🛡️
