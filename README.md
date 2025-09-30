@@ -54,4 +54,5 @@ The application is designed to help users create passwords that are difficult to
 - 🖥️ Windows Forms for UI
 - 🔧 .NET Framework
 
-<img width="496" height="223" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/56173e46-5c17-48cb-8cf3-a7a44b49c50c" />
+<img width="494" height="222" alt="Ekran Alıntısı" src="https://github.com/user-attachments/assets/1b2d4446-39c7-4ae2-9a55-36eb3883de0e" />
+
